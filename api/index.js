@@ -12,7 +12,8 @@ app.use(express.json());
 app.use("/api/auth", authRoutes);
 app.use("/api/users", userRoutes);
 
+const PORT = process.env.PORT || 3001;
 
-app.listen(8800, () => {
+app.listen(PORT, () => {
     console.log("Connected to 8800!");
 });
