@@ -3,7 +3,7 @@
     "date-fns": "^2.29.3",
     "moment": "^2.29.4",
     "react-big-calendar": "^1.5.2",
-    "react-bootstrap-icons": "^1.9.1",
+    "react-bootstrap-icons": "^1.10.2",
     "react-datepicker": "^4.8.0"
   }
 }
