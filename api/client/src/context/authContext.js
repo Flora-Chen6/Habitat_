@@ -1,5 +1,6 @@
-import axios from "axios";
+// import axios from "axios";
 import { createContext, useEffect, useState } from "react";
+import { axiosInstance } from "../config";
 
 export const AuthContext = createContext()
 
@@ -8,12 +9,12 @@ export const AuthContextProvider = ({children}) => {
 
     const login = async(inputs) => {
       console.log("setting current user")
-        const res = await axios.post("/auth/login", inputs);
+        const res = await axiosInstance.post("/auth/login", inputs);
         setCurrentUser(res.data);
     }
 
     const logout = async(inputs) => {
-        await axios.post("/auth/logout");
+        await axiosInstance.post("/auth/logout");
         setCurrentUser(null)
         
     }

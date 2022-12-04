@@ -19,6 +19,13 @@ app.use("/calendar", eventRoutes);
 // app.use("/api/home", homeRoutes);
 
 
-app.listen(7000, () => {
+app.use(express.static(path.join(__dirname, "/client/build")));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '/client/build', 'index.html'));
+});
+
+
+app.listen(process.env.PORT || 5000, () => {
     console.log("Connected to 7000!");
 });

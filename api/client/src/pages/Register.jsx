@@ -1,7 +1,8 @@
 import React from "react";
 import { useState } from "react";
 import { Link , useNavigate} from "react-router-dom";
-import axios from "axios";
+// import axios from "axios";
+import { axiosInstance, AxiosInstance } from "../config";
 
     const Register = () => {
         const [inputs, setInputs] = useState({
@@ -33,7 +34,7 @@ import axios from "axios";
             e.preventDefault();
             try {
                 console.log("before axios in try")
-                await axios.post("/auth/register", inputs)
+                await axiosInstance.post("/auth/register", inputs)
                 // console.log(res)
                 navigate("/login"); 
             }
