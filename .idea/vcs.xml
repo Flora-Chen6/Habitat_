@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/client" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/habibibi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/habibibi/habibibi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/https:/github.com/Flora-Chen6/Habitat.git" vcs="Git" />
   </component>
 </project>
