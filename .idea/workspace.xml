@@ -10,15 +10,18 @@
       <change afterPath="$PROJECT_DIR$/client/src/components/HeadNav/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/LeftNav/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/LeftNav/navitem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TabBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/TabBar/tabitem.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/docs.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/media/Group 1.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/media/calendar.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/media/file.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Hours.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/pages/Library.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Messages.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/pages/Orientation.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/utils/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
@@ -27,6 +30,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,7 +123,7 @@
       <workItem from="1670130899948" duration="2190000" />
       <workItem from="1670177032672" duration="2228000" />
       <workItem from="1670179626232" duration="3971000" />
-      <workItem from="1670189554620" duration="555000" />
+      <workItem from="1670189554620" duration="9219000" />
     </task>
     <servers />
   </component>
