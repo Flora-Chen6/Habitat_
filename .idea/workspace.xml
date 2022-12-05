@@ -21,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/client/src/pages/Messages.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/pages/Orientation.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/utils/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
@@ -123,7 +124,7 @@
       <workItem from="1670130899948" duration="2190000" />
       <workItem from="1670177032672" duration="2228000" />
       <workItem from="1670179626232" duration="3971000" />
-      <workItem from="1670189554620" duration="9533000" />
+      <workItem from="1670189554620" duration="11543000" />
     </task>
     <servers />
   </component>
@@ -148,6 +149,12 @@
           <url>file://$PROJECT_DIR$/client/src/components/LeftNav/index.js</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/client/src/pages/Orientation.jsx</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
