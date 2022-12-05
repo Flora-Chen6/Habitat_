@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05811b84-67f6-491f-bf52-e384a6e0e36f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/components/Activity/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/File/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/HeadNav/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/LeftNav/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/LeftNav/navitem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/TabBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/components/TabBar/tabitem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/docs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/media/Group 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/media/calendar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/media/file.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Hours.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Library.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Messages.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/Orientation.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/utils/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="05811b84-67f6-491f-bf52-e384a6e0e36f" name="Changes" comment="push update 1.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,8 +102,16 @@
       <workItem from="1670130899948" duration="2190000" />
       <workItem from="1670177032672" duration="2228000" />
       <workItem from="1670179626232" duration="3971000" />
-      <workItem from="1670189554620" duration="11543000" />
+      <workItem from="1670189554620" duration="12123000" />
     </task>
+    <task id="LOCAL-00001" summary="push update 1.0">
+      <created>1670212408363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670212408363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +127,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push update 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="push update 1.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
